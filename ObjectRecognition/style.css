@@ -1,0 +1,37 @@
+.container{
+    position: relative;
+    width: 510px;
+    float: left;
+    background-color: #1e3d59;
+    border: 3px solid #1e3d59;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+#canvas{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#canvas2{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+body{
+    background-color: #f5f0e1;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+#wrapper{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: auto;
+    text-align: center;
+}
